@@ -1,0 +1,152 @@
+{
+    "dinar": {
+        "Algeria": "DZD",
+        "Bahrain": "BHD",
+        "Iraq": "IQD",
+        "Jordan, Palestinian territories": "JOD",
+        "Kuwait": "KWD",
+        "Libya": "LYD",
+        "Serbia": "RSD",
+        "Tunisia": "TND"
+    },
+    "peso": {
+        "Argentina": "ARS",
+        "Chile": "CLP",
+        "Colombia": "COP",
+        "Dominican Republic": "DOP",
+        "Mexico": "MXN",
+        "Philippines": "PHP",
+        "Uruguay": "UYU"
+    },
+    "dollar": {
+        "Australia": "AUD",
+        "Barbados": "BBD",
+        "Bermuda": "BMD",
+        "Canada": "CAD",
+        "Cayman Islands": "KYD",
+        "Fiji": "FJD",
+        "Guyana": "GYD",
+        "Hong Kong SAR": "HKD",
+        "Jamaica": "JMD",
+        "Namibia": "NAD",
+        "New Zealand": "NZD",
+        "Saint Lucia": "XCD",
+        "Singapore": "SGD",
+        "Taiwan": "TWD",
+        "Trinidad And Tobago": "TTD",
+        "Ecuador, El Salvador, Palestinian territories, Panama, Puerto Rico, United States, Timor-Leste": "USD",
+        "Zimbabwe": "ZWD"
+    },
+    "manat": {
+        "Azerbaijan": "AZN",
+        "Turkmenistan": "TMT"
+    },
+    "franc": {
+        "Congo": "CDF",
+        "Rwanda": "RWF",
+        "Liechtenstein, Switzerland": "CHF",
+        "Cameroon, Chad, Congo, Equatorial Guinea, Gabon": "XAF",
+        "Ivory Coast (Cote d'Ivoire), Senegal": "XOF",
+        "New Caledonia": "XPF"
+    },
+    "kroner": {
+        "Denmark": "DKK",
+        "Norway": "NOK"
+    },
+    "pound": {
+        "Egypt": "EGP",
+        "Gibraltar": "GIP",
+        "Isle of Man": "IMP",
+        "Lebanon": "LBP",
+        "Guernsey, Jersey, United Kingdom": "GBP"
+    },
+    "krona": {
+        "Iceland": "ISK",
+        "Sweden": "SEK"
+    },
+    "rupee": {
+        "India": "INR",
+        "Mauritius": "MUR",
+        "Pakistan": "PKR",
+        "Sri Lanka": "LKR"
+    },
+    "shilling": {
+        "Kenya": "KES",
+        "Tanzania": "TZS",
+        "Uganda": "UGX"
+    },
+    "kwacha": {
+        "Malawi": "MWK",
+        "Zambia": "ZMW"
+    },
+    "leu": {
+        "Moldova": "MDL",
+        "Romania": "RON"
+    },
+    "dirham": {
+        "Morocco": "MAD",
+        "United Arab Emirates": "AED"
+    },
+    "riyal": {
+        "Qatar": "QAR",
+        "Saudi Arabia": "SAR"
+    },
+    "ruble": {
+        "Russian Federation": "RUB",
+        "Belarus": "BYN"
+    },
+    "lek": "ALL",
+    "kwanza": "AOA",
+    "dram": "AMD",
+    "euro": "EUR",
+    "boliviano": "BOB",
+    "konvertibilna marka": "BAM",
+    "pula": "BWP",
+    "real": "BRL",
+    "lev": "BGN",
+    "escudo": "CVE",
+    "riel": "KHR",
+    "yuan": "CNY",
+    "colon": "CRC",
+    "koruna": "CZK",
+    "birr": "ETB",
+    "lari": "GEL",
+    "cedi": "GHS",
+    "Danish krone": "DKK",
+    "quetzal": "GTQ",
+    "lempira": "HNL",
+    "forint": "HUF",
+    "rupiah": "IDR",
+    "shekel": "ILS",
+    "yen": "JPY",
+    "tenge": "KZT",
+    "won": "KRW",
+    "som": "KGS",
+    "kip": "LAK",
+    "pataca": "MOP",
+    "ariary": "MGA",
+    "ringgit": "MYR",
+    "rufiyaa": "MVR",
+    "ouguiya": "MRU",
+    "tugrik": "MNT",
+    "metical": "MZN",
+    "kyat": "MMK",
+    "cordoba oro": "NIO",
+    "naira": "NGN",
+    "denar": "MKD",
+    "rial": "OMR",
+    "balboa": "PAB",
+    "kina": "PGK",
+    "guarani": "PYG",
+    "nuevo sol": "PEN",
+    "zloty": "PLN",
+    "rand": "ZAR",
+    "lilangeni": "SZL",
+    "somoni": "TJS",
+    "baht": "THB",
+    "lira": "TRY",
+    "hryvnia": "UAH",
+    "soum": "UZS",
+    "bolivar": "VEF",
+    "dong": "VND"
+}
